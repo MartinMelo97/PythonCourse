@@ -17,7 +17,6 @@ potencia = 5 ** 2
 division = 10 / 2
 division_exacta = 5 // 2
 modulo = 10 % 2
-
 # print('El valor de tu suma es:', suma)
 
 print('Ingresa dos numeros a sumar')
