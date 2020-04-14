@@ -42,4 +42,3 @@ def main():
   print_values('elevación del numero dos al cuadrado', num2_cuadrado)
 
 main()
-
